@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{472D305F-9937-4BAC-A623-307F706C8444}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{36D7A15A-1360-47AE-93BB-DFBFF324DB2E}"
+	ProjectSection(SolutionItems) = preProject
+		js\jquery.js = js\jquery.js
+		js\master.js = js\master.js
+		js\slickQuiz-config.js = js\slickQuiz-config.js
+		js\slickQuiz.js = js\slickQuiz.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{120D2584-7C31-420C-985F-A92440D959F3}"
+	ProjectSection(SolutionItems) = preProject
+		css\master.css = css\master.css
+		css\reset.css = css\reset.css
+		css\slickQuiz.css = css\slickQuiz.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{49F438AD-9C33-44F7-AC16-E5A1A77C4563}"
+	ProjectSection(SolutionItems) = preProject
+		images\Breakfast.png = images\Breakfast.png
+		images\Earth.png = images\Earth.png
+		images\Letter_A.png = images\Letter_A.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
