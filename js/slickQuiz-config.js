@@ -16,6 +16,7 @@ var quizJSON = {
     "questions": [
         { // Question 1 - Multiple Choice, Single True Answer
             "q": "What number is the letter A in the English alphabet?",
+            "img" : "Letter_A.png",
             "a": [
                 {"option": "8",      "correct": false},
                 {"option": "14",     "correct": false},
@@ -27,6 +28,7 @@ var quizJSON = {
         },
         { // Question 2 - Multiple Choice, Multiple True Answers, Select Any
             "q": "Which of the following best represents your preferred breakfast?",
+            "img" : "Breakfast.png",
             "a": [
                 {"option": "Bacon and eggs",               "correct": false},
                 {"option": "Fruit, oatmeal, and yogurt",   "correct": true},
@@ -39,6 +41,7 @@ var quizJSON = {
         },
         { // Question 3 - Multiple Choice, Multiple True Answers, Select All
             "q": "Where are you right now? Select ALL that apply.",
+            "img": "Earth.png",
             "a": [
                 {"option": "Planet Earth",           "correct": true},
                 {"option": "Pluto",                  "correct": false},
@@ -61,6 +64,7 @@ var quizJSON = {
         },
         { // Question 5
             "q": "Is Earth bigger than a basketball?",
+            "img": "Earth.png",
             "a": [
                 {"option": "Yes",    "correct": true},
                 {"option": "No",     "correct": false} // no comma here

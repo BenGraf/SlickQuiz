@@ -241,6 +241,11 @@
                         }
                         questionHTML.append('<h3>' + formatQuestion + '</h3>');
 
+			// Show an image per question if provided
+                        if (typeof question.img !== 'undefined') {
+                            questionHTML.append('<p class="img"><img src="images/' + question.img + '" alt="' + question.img + '"></p>');
+                        }
+
                         // Count the number of true values
                         var truths = 0;
                         for (i in question.a) {
