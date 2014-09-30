@@ -166,6 +166,7 @@ See `js/slickQuiz-config.js`
         "questions": [
             {
                 "q": "The Question?",
+                "img": "myimage.png",
                 "a": [
                     {"option": "an incorrect answer",       "correct": false},
                     {"option": "a correct answer",          "correct": true},
