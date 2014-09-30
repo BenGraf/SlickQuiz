@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		index.html = index.html
 		LICENSE.txt = LICENSE.txt
 		README.md = README.md
+		translated.html = translated.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{36D7A15A-1360-47AE-93BB-DFBFF324DB2E}"
@@ -15,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{36D7A15A-1360-
 		js\jquery.js = js\jquery.js
 		js\master.js = js\master.js
 		js\slickQuiz-config.js = js\slickQuiz-config.js
+		js\slickQuiz-de.js = js\slickQuiz-de.js
 		js\slickQuiz.js = js\slickQuiz.js
 	EndProjectSection
 EndProject
