@@ -241,9 +241,9 @@
                         }
                         questionHTML.append('<h3>' + formatQuestion + '</h3>');
 
-			// Show an image per question if provided
+                        // Show an image per question if provided
                         if (typeof question.img !== 'undefined') {
-                            questionHTML.append('<p class="img"><img src="images/' + question.img + '" alt="' + question.img + '"></p>');
+                            questionHTML.append('<div class="img"><img src="images/' + question.img + '" alt="' + question.img + '"></div>');
                         }
 
                         // Count the number of true values
