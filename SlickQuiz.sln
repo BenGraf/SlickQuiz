@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{36D7A15A-1360-
 	ProjectSection(SolutionItems) = preProject
 		js\jquery.js = js\jquery.js
 		js\master.js = js\master.js
+		js\myQuiz.js = js\myQuiz.js
 		js\slickQuiz-config.js = js\slickQuiz-config.js
 		js\slickQuiz-de.js = js\slickQuiz-de.js
 		js\slickQuiz.js = js\slickQuiz.js
